@@ -7,10 +7,10 @@ Meu nome é **Davi Marcelo** e sou estudante de programação, com foco principa
 Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de APIs**, enquanto também exploro cada vez mais o universo do **desenvolvimento Mobile**, especialmente com **Kotlin e Android**. Busco transformar o que aprendo em projetos reais, colocando meus conhecimentos em prática e evoluindo constantemente como desenvolvedor.
 
 <p align="left">
-  <a href="https://github.com/davimarcelodev">
+  <a href="https://github.com/davimarcelodev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-davimarcelodev-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/davi-marcelo/">
+  <a href="https://www.linkedin.com/in/davi-marcelo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
