@@ -10,6 +10,9 @@ Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de 
   <a href="https://github.com/davimarcelodev">
     <img src="https://img.shields.io/badge/GitHub-davimarcelodev-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/davi-marcelo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -50,3 +53,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de 
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davimarcelodev&layout=compact&theme=tokyonight&locale=pt-br" />
    
 </p>
+
+---
+
+
