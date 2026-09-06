@@ -1,4 +1,3 @@
-# <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/44d42054-9fb7-44b4-b012-e96be34b8f54" />
 <img src="https://github.com/user-attachments/assets/44d42054-9fb7-44b4-b012-e96be34b8f54" width="30px" />  Davi Marcelo
 
 **`Desenvolvedor Back-End`**
