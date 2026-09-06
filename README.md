@@ -51,8 +51,12 @@ Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de 
 </p>
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?davimarcelodev=anuraghazra&show_icons=true" />
+</picture>
 
 
