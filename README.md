@@ -46,17 +46,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?davimarcelodev=anuraghazra&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimarcelodev&layout=compact&theme=tokyonight" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&locale=pt-br" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davimarcelodev&layout=compact&theme=tokyonight&locale=pt-br" />
+   
 </p>
-
----
-<picture>
-  <source
-    srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?davimarcelodev=anuraghazra&show_icons=true" />
-</picture>
-
-
