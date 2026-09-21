@@ -49,7 +49,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python e desenvolvimento d
 ## 📊 GitHub Stats
 
 <p align="left">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=2" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=3" />
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimarcelodev&theme=tokyonight" />
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=davimarcelodev&theme=tokyonight&locale=pt_BR" />
     <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&locale=pt-br" />
