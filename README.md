@@ -49,7 +49,7 @@ Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de 
 ## 📊 GitHub Stats
 
 <p align="left">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&locale=pt-br" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" />
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davimarcelodev&layout=compact&theme=tokyonight&locale=pt-br" />
    
 </p>
