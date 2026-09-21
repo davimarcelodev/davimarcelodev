@@ -4,7 +4,7 @@
 
 Meu nome é **Davi Marcelo** e sou estudante de programação, com foco principal em **desenvolvimento Back-End**.
 
-Atualmente estou aprofundando meus conhecimentos em **Java e desenvolvimento de APIs**, enquanto também exploro cada vez mais o universo do **desenvolvimento Mobile**, especialmente com **Kotlin e Android**. Busco transformar o que aprendo em projetos reais, colocando meus conhecimentos em prática e evoluindo constantemente como desenvolvedor.
+Atualmente estou aprofundando meus conhecimentos em **Python e desenvolvimento de APIs**, enquanto também exploro cada vez mais o universo do **desenvolvimento Mobile**, especialmente com **Kotlin e Android**. Busco transformar o que aprendo em projetos reais, colocando meus conhecimentos em prática e evoluindo constantemente como desenvolvedor.
 
 <p align="left">
   <a href="https://github.com/davimarcelodev" target="_blank">
