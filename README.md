@@ -50,7 +50,7 @@ Atualmente estou aprofundando meus conhecimentos em **Python e desenvolvimento d
 
 <p align="left">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=davimarcelodev&theme=tokyonight&locale=pt_BR" />
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=davimarcelodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=true&locale=pt-br" />
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davimarcelodev&layout=compact&theme=tokyonight&locale=pt-br" />
    
 </p>
